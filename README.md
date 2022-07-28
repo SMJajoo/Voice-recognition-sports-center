@@ -4,3 +4,12 @@ assistant of the Sports Centre and user. With thorough research and observations
 and many types of equipment have been added to this prototype such as activities like Basketball, Volleyball, 
 Swimming and equipment like Climbing shoes, Netballs etc. This prototype is a conversational VUI where 
 the system does not have to give any indicator to speak. And uses a more natural turn-taking approach.
+
+
+TECHNOLOGY USED
+1. Voiceflow: Voice apps prototyping tool to design, prototype, and create for Google Assistant and 
+Amazon Alexa
+2. JavaScript: Object-oriented programming language used to add interactive effects to web pages
+3. Airtable: Relational database tool
+
+
