@@ -13,3 +13,13 @@ Amazon Alexa
 3. Airtable: Relational database tool
 
 
+Main functionalities:
+Following are the tasks user can perform on this prototype:
+1. User personalized system based on signup or log in details.
+2. Book multiple slots of any available sports activities.
+3. Change the slot date or slot time if required.
+4. Hire related personalized equipment for booked sports activities.
+5. Cancel the booked slot.
+
+
+
